@@ -1,1 +1,2 @@
-Ceci est un test. Cette ligne est �crite localement sur mon portable, et enregistr�e localement dans mes documents.
+Ceci est un test. Cette ligne est écrite localement sur mon portable, et enregistrée localement dans mes documents.
+J'écris cet ligne à partir de GitHub.
