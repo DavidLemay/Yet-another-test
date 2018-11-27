@@ -1,1 +1,3 @@
-Ceci est un gros test. Il est une copie. Cette ligne est écrite localement sur mon portable, et enregistrée localement dans mes documents.
+Ceci est un gros test. Il est une copie. Cette ligne est Ã©crite localement sur mon portable, et enregistrÃ©e localement dans mes documents.
+
+Oh que oui!
